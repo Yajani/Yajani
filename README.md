@@ -28,7 +28,7 @@
 
 <br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yajaniya)](https://solved.ac/yajaniya)<br/>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yajani&layout=compact)](https://github.com/Yajani/github-readme-stats)
 
 <div align = "center">
 
