@@ -10,7 +10,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yajani&show_icons=true&theme=radical)
 <br/>
 ﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yajani&layout=compact)](https://github.com/Yajani/github-readme-stats)
 <h3>📚 Tech Stack 📚</h3>
 <div>
 <br/>
@@ -26,9 +26,7 @@
 
 <br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yajaniya)](https://solved.ac/yajaniya)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yajani&layout=compact)](https://github.com/Yajani/github-readme-stats)
-</div>
- 
+
 <div align = "center">
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 </div>
