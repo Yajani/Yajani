@@ -9,8 +9,9 @@
 
 <br/><br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yajani&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yajani&layout=compact)](https://github.com/Yajani/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yajaniya)](https://solved.ac/yajaniya/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yajani&layout=compact)](https://github.com/Yajani/github-readme-stats)
+
   
 <h3>📚 Tech Stack 📚</h3>
 <div>
