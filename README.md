@@ -4,7 +4,7 @@
 </div>
 
 <div align = "center">
-<h3>🌈Yajani🌈</h3>
+<h3 style= "font-size = 30px">🌈Yajani🌈</h3>
 
 <br/><br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yajani&show_icons=true&theme=radical)
