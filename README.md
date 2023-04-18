@@ -28,8 +28,7 @@
 <br/>
 
 <br/>
-[![Solved.ac
-yajaniya](http://mazassumnida.wtf/api/generate_badge?boj={yajaniya})](https://solved.ac/{yajaniya})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yajaniya)](https://solved.ac/yajaniya)<br/>
 
 
 <div align = "center">
