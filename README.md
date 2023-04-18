@@ -22,10 +22,7 @@
 <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 
-<br/>
- <div>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yajaniya)](https://solved.ac/yajaniya)<br/>
-  </div>
+
 </br>
 <div align = "center">
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
