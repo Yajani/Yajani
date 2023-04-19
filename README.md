@@ -32,4 +32,4 @@
 <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 </br>
-<img src = "KakaoTalk_20230418_173556964.png">
+<img src = "KakaoTalk_20230419_124647104_06.gif">
