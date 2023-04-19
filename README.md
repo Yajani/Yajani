@@ -7,6 +7,9 @@
 <div align = "center">
 <h3 style= "font-size = 70px">🌈Yajani🌈</h3>
 <br/>
+
+ <img src = "KakaoTalk_20230419_135934719.gif"> 
+ </br>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yajani&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yajaniya)](https://solved.ac/yajaniya/)
