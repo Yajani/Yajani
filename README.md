@@ -8,7 +8,7 @@
 <h3 style= "font-size = 70px">🌈Yajani🌈</h3>
 <br/>
 
- <img src = "KakaoTalk_20230419_135934719.gif"> 
+ <img src = "KakaoTalk_20230419_124647104_01.gif"> 
  </br>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yajani&show_icons=true&theme=radical)
