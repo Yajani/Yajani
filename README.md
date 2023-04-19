@@ -5,7 +5,7 @@
 </div>
 
 <div align = "center">
-<h3 style= "font-size = 70px">🌈Yajani🌈</h3>
+<h3 style= "font-size = 90px">🌈Yajani🌈</h3>
 <br/>
 
  <img src = "KakaoTalk_20230419_144903842.gif"> 
