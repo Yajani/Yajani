@@ -3,7 +3,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90) -->
  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF9933&height=200&section=header&text=" "&fontSize=90" />
 </div>
-
 <div align = "center">
 <h3 style= "font-size = 90px">🌈Yajani🌈</h3>
 <br/>
