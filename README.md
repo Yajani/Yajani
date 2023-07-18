@@ -42,4 +42,4 @@
  
     
 </br>
- <img src = "KakaoTalk_20230419_135321211.gif"> 
+ 
