@@ -14,7 +14,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yajaniya)](https://solved.ac/yajaniya/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yajani&layout=compact)](https://github.com/Yajani/github-readme-stats)
 
-<!-- ![ㅐㅐ](../KakaoTalk_20230418_173556964.png) -->
+
+<img src = "KakaoTalk_20230419_144903842.gif">
 <hr>
 <h3>📚 Tech Stack 📚</h3>
 <div>
@@ -39,5 +40,6 @@
 <hr> 
 
  <img src = "KakaoTalk_20230419_135321211.gif">
+ 
 </br>
  
