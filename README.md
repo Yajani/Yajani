@@ -7,7 +7,6 @@
 <div align = "center">
 <h3 style= "font-size = 90px">🌟Yajani🌟</h3>
 <br/>
- <img src = "KakaoTalk_20230419_144903842.gif">
  </br>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yajani&show_icons=true&theme=radical)
