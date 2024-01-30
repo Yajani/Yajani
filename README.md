@@ -5,7 +5,7 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&color=FAED7D&height=200&section=header&text=" "&fontSize=90" />
 </div>
 <div align = "center">
-<h3 style= "font-size = 90px">🌟Yajani🌟</h3>
+<h2 style= "font-size = 90px">🔥Yajani🔥</h2>
 <br/>
  </br>
  
