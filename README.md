@@ -2,7 +2,7 @@
 
 <div align = "center">
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90) -->
- <img src="https://capsule-render.vercel.app/api?type=waving&color=FAED7D&height=200&section=header&text=🔥Yajani🔥&fontSize=90" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=FAED7D&height=200&section=header&text=🔥Yajani🔥&fontSize=60" />
 </div>
 <div align = "center">
 <!-- <h2 style= "font-size = 90px">🔥Yajani🔥</h2> -->
